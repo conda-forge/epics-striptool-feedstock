@@ -43,6 +43,7 @@ test:
 about:
   home: https://epics.anl.gov/extensions/StripTool/index.php
   license: EPICS
+  license_file: LICENSE
   summary: "EPICS Plotting tool"
 
 extra:
